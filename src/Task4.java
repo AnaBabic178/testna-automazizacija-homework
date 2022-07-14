@@ -14,9 +14,9 @@ public class Task4 {
     }
     private int sum2(int[] values) {
         int sum = 0;
-        for(int value in values){
-            sum+= value;
-        }
+        //for(int value in values){
+        //    sum+= value;
+        //}
         return sum;
     }
 }
